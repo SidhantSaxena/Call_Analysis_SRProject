@@ -1,0 +1,8 @@
+2025-03-01T06:16:05.273491+0000 | INFO | Logger setup complete. Logging initialized.
+2025-03-01T06:16:05.420771+0000 | INFO | FastAPI application initialized.
+2025-03-01T06:19:16.300845+0000 | INFO | File 'fin_call_ver2.wav' uploaded successfully.
+2025-03-01T06:34:22.494156+0000 | INFO | Transcript generated: transcripts/fin_call_ver2.wav.txt
+2025-03-01T06:36:25.797317+0000 | INFO | File 'fin_call_ver2.wav' uploaded successfully.
+2025-03-01T06:36:25.886392+0000 | INFO | Returning existing transcript: transcripts/fin_call_ver2.wav.txt
+2025-03-01T06:38:42.778487+0000 | INFO | File 'fin_call_ver2.wav' uploaded successfully.
+2025-03-01T06:38:42.905808+0000 | INFO | Returning existing transcript: transcripts/fin_call_ver2.wav.txt

@@ -1,0 +1,7 @@
+[fastapi]
+host = "127.0.0.1"
+port = 8000
+workers = 4
+upload_url = "http://127.0.0.1:8000/upload-audio/"
+process_url = "http://127.0.0.1:8000/process-audio/"
+
